@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.so4.market/</loc>
-    <lastmod>2026-08-28</lastmod>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
     <loc>https://docs.so4.market/concepts/funding-and-fees</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
     <loc>https://docs.so4.market/concepts/liquidation</loc>
     <lastmod>2026-08-25</lastmod>
   </url>
   <url>
+    <loc>https://docs.so4.market/concepts/oracles</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/concepts/order-types</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
     <loc>https://docs.so4.market/concepts/risk</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/concepts/unified-liquidity</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
     <loc>https://docs.so4.market/developers/architecture</loc>
@@ -55,6 +67,30 @@
   <url>
     <loc>https://docs.so4.market/get-started/quickstart</loc>
     <lastmod>2026-08-30</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/guides/earn</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/guides/faucet</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/guides/pools</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/guides/positions</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/guides/referrals</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.so4.market/guides/trading</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
     <loc>https://docs.so4.market/guides/troubleshooting</loc>
